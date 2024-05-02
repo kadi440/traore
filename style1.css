@@ -1,0 +1,18 @@
+@import url('./style.css');
+
+.Moi{
+    background-color: gainsboro;
+}
+
+.Monnom{
+    color: rgb(75, 38, 38);
+}
+
+.animate__animated.animate__fadeInLeft {
+    animation-duration: 5s; 
+}
+
+.contact{
+    background-color:  gainsboro;
+}
+
